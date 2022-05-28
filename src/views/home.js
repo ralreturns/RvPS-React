@@ -99,7 +99,7 @@ const Home = (props) => {
               <span>think</span>
             </span>
             <a
-              href="https://nft.rockvspaperscissors.live"
+              href="https://presale.rockvspaperscissors.live"
               target="_blank"
               rel="noreferrer noopener"
               className="home-primary button-lg button-secondary-white button"
